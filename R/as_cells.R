@@ -30,7 +30,7 @@
 #'
 #' * `row` and `col` (integer) giving the original position of the 'cells'
 #' * any relevant columns for cell values in their original types: `chr`,
-#'   `cplx`, `cplx`, `dbl`, `fct`, `int`, `lgl`, `list`, and `ord`
+#'   `cplx`, `dbl`, `fct`, `int`, `lgl`, `list`, and `ord`
 #' * `data_type` to specify for each cell which of the above columns (`chr`
 #'   etc.) the value is in.
 #'
